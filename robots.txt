@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+Allow: /main/
+Allow: /public/
+
+Sitemap: https://customizableweb.com/sitemap.xml
